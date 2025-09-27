@@ -202,9 +202,9 @@ This project was developed as part of the **AMBRIX ML Intern assessment**. We we
 
 ### Questions & Support
 For questions, suggestions, or collaborations, please reach out through:
-- 📧 Email: [Your Email]
-- 💬 Issues: [GitHub Issues](https://github.com/MrKunalSharma/ambrix-recommendation-system/issues)
-- 📱 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: [kunalsharma13579kunals@gmail.com]
+- 💬 Github: [https://github.com/MrKunalSharma]
+- 📱 LinkedIn: [https://www.linkedin.com/in/kunal-sharma-1a8457257/]
 
 ---
 
