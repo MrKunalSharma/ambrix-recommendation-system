@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Environment variables
+.env
+.env.local
+
+# Large files or personal data
+*.pkl
+*.h5
+*.model
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Test outputs
+test_*
+temp_*
+
+# But make sure to keep your project files
+!data/*.csv
+!outputs/user_recommendations.csv
+!visualizations/*.png
